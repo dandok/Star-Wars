@@ -1,4 +1,4 @@
-# Week-One-SQ008
+# Dan Star-Wars
 
 ## Problem Description:
 
